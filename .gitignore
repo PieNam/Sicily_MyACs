@@ -1,0 +1,6 @@
+Sicily/
+DerivedData/
+
+*.xcodeproj
+
+.DS_Store
